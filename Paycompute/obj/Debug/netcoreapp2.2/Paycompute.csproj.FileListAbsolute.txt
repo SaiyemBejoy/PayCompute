@@ -1,0 +1,88 @@
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\appsettings.json
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.json
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.local.json
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.deps.json
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.runtimeconfig.json
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.runtimeconfig.dev.json
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.dll
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.pdb
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Views.dll
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Views.pdb
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Persistence.dll
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Services.dll
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Services.pdb
+G:\C# projects\Random Projects\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csprojAssemblyReference.cache
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.AssemblyInfoInputs.cache
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.AssemblyInfo.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CoreCompileInputs.cache
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorAssemblyInfo.cache
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorAssemblyInfo.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.TagHelpers.input.cache
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.TagHelpers.output.cache
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorCoreGenerate.cache
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorTargetAssemblyInfo.cache
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorTargetAssemblyInfo.cs
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.Views.pdb
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CopyComplete
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.dll
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.pdb
+G:\C# projects\Random Projects\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.genruntimeconfig.cache
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\appsettings.json
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.json
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Properties\serviceDependencies.local.json
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.deps.json
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.runtimeconfig.json
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.runtimeconfig.dev.json
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.dll
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.pdb
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Views.dll
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Views.pdb
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Persistence.dll
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Services.dll
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Services.pdb
+G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csprojAssemblyReference.cache
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.AssemblyInfoInputs.cache
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.AssemblyInfo.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CoreCompileInputs.cache
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorAssemblyInfo.cache
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorAssemblyInfo.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.TagHelpers.input.cache
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.TagHelpers.output.cache
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorCoreGenerate.cache
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorTargetAssemblyInfo.cache
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorTargetAssemblyInfo.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.Views.pdb
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CopyComplete
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.dll
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.pdb
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.genruntimeconfig.cache
