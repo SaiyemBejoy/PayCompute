@@ -9,7 +9,7 @@ namespace Paycompute.Services
 {
     public interface IPayComputationService
     {
-        Task CreateAync(PaymentRecord paymentRecord);
+        Task CreateAsync(PaymentRecord paymentRecord);
         PaymentRecord GetById(int id);
         TaxYear GetTaxYearById(int id);
         IEnumerable<PaymentRecord> GetAll();

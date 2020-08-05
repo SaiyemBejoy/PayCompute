@@ -54,5 +54,51 @@ namespace Paycompute.Controllers
             });
             return View(payRecords);
         }
+
+        public IActionResult Create()
+        {
+            ViewBag.employees = _employeeService.GetAllEmployeesForPayroll();
+            ViewBag.taxYears = _payComputationService.GetAllTaxYear();
+            var model = new PaymentRecordCreateViewModel();
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(PaymentRecordCreateViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var payrecord = new PaymentRecord()
+                {
+                    Id = model.Id,
+                    EmployeeId = model.EmployeeId,
+                    FullName = _employeeService.GetById(model.EmployeeId).FullName,
+                    NiNo = _employeeService.GetById(model.EmployeeId).NationalInsuranceNo,
+                    PayDate = model.PayDate,
+                    PayMonth = model.PayMonth,
+                    TaxYearId = model.TaxYearId,
+                    TaxCode = model.TaxCode,
+                    HourlyRate = model.HourlyRate,
+                    HoursWorked = model.HoursWorked,
+                    ContractualHours = model.ContractualHours,
+                    OvertimeHours = overtimeHrs = _payComputationService.OvertimeHours(model.HoursWorked, model.ContractualHours),
+                    ContractualEarnings = contractualEarnings = _payComputationService.ContractualEarnings(model.ContractualHours, model.HoursWorked, model.HourlyRate),
+                    OvertimeEarnings = overtimeEarnings = _payComputationService.OvertimeEarnings(_payComputationService.OvertimeRate(model.HourlyRate), overtimeHrs),
+                    TotalEarnings = totalEarnings = _payComputationService.TotalEarnings(overtimeEarnings, contractualEarnings),
+                    Tax = tax = _taxService.TaxAmount(totalEarnings),
+                    UnionFee = unionFee = _employeeService.UnionFees(model.EmployeeId),
+                    SLC = studentLoan = _employeeService.StudentLoanRepaymentAmount(model.EmployeeId, totalEarnings),
+                    NIC = nationalInsurance = _nationalInsuranceContributionService.NIContribution(totalEarnings),
+                    TotalDeduction = totalDeduction = _payComputationService.TotalDeduction(tax, nationalInsurance, studentLoan, unionFee),
+                    NetPayment = _payComputationService.NetPay(totalEarnings, totalDeduction)
+                };
+                await _payComputationService.CreateAsync(payrecord);
+                return RedirectToAction(nameof(Index));
+            }
+            ViewBag.employees = _employeeService.GetAllEmployeesForPayroll();
+            ViewBag.taxYears = _payComputationService.GetAllTaxYear();
+            return View();
+        }
     }
 }
