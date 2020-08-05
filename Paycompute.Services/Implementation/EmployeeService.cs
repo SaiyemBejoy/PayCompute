@@ -91,10 +91,5 @@ namespace Paycompute.Services.Implementation
                 Value = emp.Id.ToString()
             });
         }
-
-        IEnumerable<SelectListItem> IEmployeeService.GetAllEmployeesForPayroll()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

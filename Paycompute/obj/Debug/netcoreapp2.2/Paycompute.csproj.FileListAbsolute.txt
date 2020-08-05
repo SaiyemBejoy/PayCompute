@@ -92,3 +92,4 @@ G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razo
 G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Detail.cshtml.g.cs
 G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.cshtml.g.cs
 G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Index.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Create.cshtml.g.cs
