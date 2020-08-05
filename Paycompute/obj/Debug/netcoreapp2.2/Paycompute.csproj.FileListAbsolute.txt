@@ -88,3 +88,4 @@ G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Payc
 G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.genruntimeconfig.cache
 G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
 G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
