@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting.Internal;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
@@ -12,6 +13,7 @@ using Paycompute.Services;
 
 namespace Paycompute.Controllers
 {
+    [Authorize]
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeService;
@@ -40,6 +42,7 @@ namespace Paycompute.Controllers
             return View(EmployeeListPagination<EmployeeIndexViewModel>.Create(employees, pageNumber ?? 1, pageSize));
         }
 
+        [Authorize(Roles = "Admin, Manager, Staff")]
         [HttpGet]
         public IActionResult Create()
         {
@@ -48,6 +51,7 @@ namespace Paycompute.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin, Manager, Staff")]
         [HttpPost]
         [ValidateAntiForgeryToken] //Prevents cross-site Request Forgery Attacks
         public async Task<IActionResult> Create(EmployeeCreateViewModel model)
@@ -92,7 +96,7 @@ namespace Paycompute.Controllers
             return View();
         }
 
-
+        [Authorize(Roles = "Admin, Manager, Staff")]
         public IActionResult Edit(int id)
         {
             var employee = _employeeService.GetById(id);
@@ -125,6 +129,7 @@ namespace Paycompute.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin, Manager, Staff")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(EmployeeEditViewModel model)
@@ -203,6 +208,7 @@ namespace Paycompute.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin, Manager")]
         [HttpGet]
         public IActionResult Delete(int id)
         {
@@ -220,6 +226,7 @@ namespace Paycompute.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin, Manager")]
         [HttpPost]
         public async Task<IActionResult> Delete(EmployeeDeleteViewModel model)
         {
