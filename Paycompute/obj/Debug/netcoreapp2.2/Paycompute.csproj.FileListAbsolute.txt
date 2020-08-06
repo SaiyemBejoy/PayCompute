@@ -94,6 +94,6 @@ G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razo
 G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Create.cshtml.g.cs
 G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Detail.cshtml.g.cs
 G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Payslip.cshtml.g.cs
-G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CoreCompileInputs.cache
 G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltoimage.exe
 G:\C# projects\PayCompute Enterprise App\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltopdf.exe
+G:\C# projects\PayCompute Enterprise App\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CoreCompileInputs.cache
